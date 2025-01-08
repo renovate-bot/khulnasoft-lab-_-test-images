@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM alpine:3.21.2
 
 # install go 1.13, python 3.8, and busybox 1.31
 # 
